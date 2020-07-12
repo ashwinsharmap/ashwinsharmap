@@ -1,4 +1,4 @@
-
+### 👋
 # Ashwin Sharma P
 
 **Hello all, I'm Ashwin and I love to explore the programming world.
