@@ -3,7 +3,8 @@
 
 **Hello all, I'm Ashwin and I love to explore the programming world.
 You may not find any sensational stuff here but everything here is genuine.
-I also write technical blogs and below you can find my LinkedIn profile.**
+I also write technical blogs.
+You can find my LinkedIn profile below.**
 
 
 -----
